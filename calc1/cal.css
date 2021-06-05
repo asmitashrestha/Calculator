@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+# answer{
+    width: 300px;
+    border-radius: 13px;
+}
+.clac{
+    background-color: gray;
+    padding: 10px;
+    display: inline-block;
+    border-radius: 20px;
+}
+input{
+    font-size: 30px;
+    width: 70px;
+    height: 60px;
+    margin: 5px;
+    border-radius: 10px;
+    border: none;
+    box-shadow: 5px 5px 3px grey, -5px -5px 3px white;
+    background: gray;
+    outline: none;
+}
+.container h1{
+    font-weight: bold;
+    color: grey;
+}
